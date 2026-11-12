@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://honza-hroch.github.io/sitemap.xml
